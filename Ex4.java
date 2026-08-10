@@ -11,3 +11,4 @@ public class Ex4 {
         return inverter(s.substring(1)) + s.charAt(0);
     }
 }
+
